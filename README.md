@@ -4,7 +4,7 @@ I created this in 2018 to help support [OutWod](https://www.outwod.com/), a proj
 
 The goal was to create a leaderboard outside of the main Crossfit Games website that would allow athletes to compete based on the gender they identify as. Additionally, it allowed athletes to compete and raise money for [Out Foundation](http://theoutfoundation.org/) without being part of the official Crossfit Games Open.
 
-![OutWod Leaderboard](./leaderboard-graphic.png)
+![OutWod Leaderboard](./assets/leaderboard-graphic.png)
 
 ## Technical details
 
