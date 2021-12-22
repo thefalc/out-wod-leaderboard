@@ -1,0 +1,4 @@
+cron:
+- description: "Importing athlete scores"
+  url: /athlete/import
+  schedule: every 60 mins

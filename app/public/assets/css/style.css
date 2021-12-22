@@ -1,0 +1,21 @@
+table.athlete-table th { font-family: Ubuntu,sans-serif; font-weight: 700; text-align: center; background-color: #000; color: #fff; text-transform: uppercase; }
+table.athlete-table tr td { font-family: Ubuntu,sans-serif; text-align: center; font-size: 1.8rem; }
+table.athlete-table tr td.name { text-transform: uppercase; min-width: 220px; }
+table.athlete-table tr td.score { width: 13%; }
+table.athlete-table tr td.highlight { font-weight: 700; }
+
+.bottom { font-family: Ubuntu,sans-serif; text-align: left; text-transform: none; margin-top: 10px; font-size: 1.4rem; color: #1A1A1A; }
+.bottom ul { padding-left: 8px; }
+.bottom ul li { font-size: 1.4rem; color: #1A1A1A; }
+
+.table-striped>tbody>tr:nth-of-type(odd) { background-color: #fff; }
+.table-striped>tbody>tr:nth-of-type(even) { background-color: #F5F8F9; }
+
+label { text-transform: uppercase; }
+select { height: 30px; width: 130px; background-color: #fff; margin-right: 10px; }
+input { height: 30px; width: 200px; background-color: #fff; margin-right: 10px; }
+
+.pagination>li>a, .pagination>li>span { color: #777; }
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover { background-color: #000; border-color: #000; }
+
+.table-striped>tbody>tr:nth-of-type(even) { background-color: #eee; }

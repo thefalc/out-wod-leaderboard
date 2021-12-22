@@ -1,0 +1,41 @@
+{
+  "development": {
+    "username": "root",
+    "password": "molson",
+    "database": "out_wod_2019",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "define": {
+        "timestamps": false
+    }
+  },
+  "test": {
+    "username": "root",
+    "password": "molson",
+    "database": "out_wod",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "define": {
+        "timestamps": false
+    }
+  },
+  "production": {
+    "username": "root",
+    "password": "xLibJgsU3H3VPr",
+    "database": "out_wod_2019",
+    "host": "35.239.122.177",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "define": {
+        "timestamps": false
+    },
+    "pool": {
+    "max": 10,
+    "min": 0,
+    "idle": 20000,
+    "acquire": 20000
+    }
+  }
+}
