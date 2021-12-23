@@ -1,7 +1,7 @@
 {
   "development": {
-    "username": "root",
-    "password": "molson",
+    "username": "",
+    "password": "",
     "database": "out_wod_2019",
     "host": "localhost",
     "dialect": "mysql",
@@ -11,8 +11,8 @@
     }
   },
   "test": {
-    "username": "root",
-    "password": "molson",
+    "username": "",
+    "password": "",
     "database": "out_wod",
     "host": "localhost",
     "dialect": "mysql",
@@ -22,10 +22,10 @@
     }
   },
   "production": {
-    "username": "root",
-    "password": "xLibJgsU3H3VPr",
+    "username": "",
+    "password": "",
     "database": "out_wod_2019",
-    "host": "35.239.122.177",
+    "host": "",
     "dialect": "mysql",
     "operatorsAliases": false,
     "define": {
