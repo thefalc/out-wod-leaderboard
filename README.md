@@ -18,6 +18,10 @@ Ranking and scoring athletes was tricky as well because different workouts use d
 
 * `npm i` - install dependencies
 
+### database setup
+
+The `out_wod_2019.sql` file contains the database structure. The athlete score importer script assumes there's a record for all participating athletes in the `athletes` table.
+
 ### run in dev
 
 * `npm run build:watch:server` - runs babel to transpile the server from es6 to es5 (watch mode)
